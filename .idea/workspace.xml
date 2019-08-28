@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9ee3a5b-26ed-4a08-9bcd-bbe0f8c630cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/de/telran/GameState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/telran/PlayersInteraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/de/telran/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/telran/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
